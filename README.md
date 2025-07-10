@@ -12,15 +12,15 @@
 
 
 
-Overview
+Overview:
 
 Machine Learning (ML) is a subfield of Artificial Intelligence (AI) that enables systems to automatically learn from data and improve their performance without being explicitly programmed. One highly practical application of ML is spam email detection, where the goal is to automatically classify incoming emails as either spam (unwanted or malicious content) or ham (legitimate messages). This project involves implementing a spam detection model using Scikit-learn, a popular Python ML library, with Visual Studio Code (VS Code) as the development environment.
 
-task Description Using Scikit-learn
+task Description (Using Scikit-learn):
 
 The main objective of this task was to create a predictive classification model that can accurately detect spam emails from a given dataset. We used the Scikit-learn library due to its simplicity and effectiveness in handling classification problems. The model was trained on a labeled dataset where emails were marked as either "spam" or "ham."
 
-Tools Used
+Tools Used:
 
 Python: The primary programming language used for building the model.
 
@@ -68,7 +68,7 @@ After training, the model was tested with new email inputs to predict whether th
 
 The model demonstrated a high level of accuracy and efficiency in classification.
 
-Benefits of Spam Detection
+Benefits of Spam Detection:
 
 Improved Security: Spam filters prevent phishing attacks, scams, and malware from reaching users.
 
@@ -78,7 +78,7 @@ Better User Experience: Reduces inbox clutter, improving the usability and effec
 
 Business Efficiency: Protects organizations from data breaches and enhances communication systems.
 
-How This Helps
+How This Helps:
 
 This machine learning task provides valuable insight into how real-world problems can be solved using data science. By working through the spam detection model:
 
@@ -91,3 +91,5 @@ Practical Skills: The use of Scikit-learn and VS Code offers experience with too
 Foundation for Future Projects: Concepts learned here, such as data preprocessing, vectorization, and model evaluation, are applicable to many other ML tasks.
 
 In conclusion, building a spam detection model using Scikit-learn in VS Code is a practical and educational task that showcases the real-world applications of machine learning. It not only improves technical proficiency but also highlights the importance of automated systems in modern digital communication.
+
+<img width="1329" height="580" alt="Image" src="https://github.com/user-attachments/assets/cc72307e-0b7c-4b9e-a792-6a016ca8280d" />
