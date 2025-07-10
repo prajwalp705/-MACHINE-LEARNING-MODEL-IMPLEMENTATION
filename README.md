@@ -32,38 +32,29 @@ Pandas & NumPy: Used for handling data structures and performing numerical opera
 
 NLP Libraries: Techniques like tokenization and text vectorization (e.g., using CountVectorizer or TfidfVectorizer) were used to convert text into numerical format.
 
- Steps
+Steps:
  
 Data Collection and Loading:
-
 We used a labeled dataset consisting of thousands of emails tagged as “spam” or “ham.”
 
 The dataset was loaded using Pandas and basic exploratory data analysis (EDA) was performed.
-
 Data Preprocessing:
 
 Text data was cleaned by removing punctuation, converting to lowercase, and eliminating stopwords.
-
 Used Natural Language Processing (NLP) techniques to transform raw text into numerical features using TF-IDF Vectorizer or CountVectorizer.
 
 Model Selection and Training:
-
 Several classification algorithms were considered, including Multinomial Naive Bayes, Logistic Regression, and Support Vector Machine (SVM).
 
 The Naive Bayes classifier was selected for its speed and effectiveness in text classification problems.
-
 The model was trained on the transformed dataset.
 
 Model Evaluation:
-
 Performance metrics such as accuracy, precision, recall, and F1-score were used.
-
 A confusion matrix was generated to visualize the performance of the classifier.
-
 Cross-validation was used to ensure the model's robustness and avoid overfitting.
 
 Prediction and Testing:
-
 After training, the model was tested with new email inputs to predict whether they were spam or not.
 
 The model demonstrated a high level of accuracy and efficiency in classification.
